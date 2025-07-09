@@ -831,7 +831,7 @@ function sendToWhatsApp(event) {
   whatsappMessage += `*Message:* ${message}%0A`;
 
   // WhatsApp phone number (international format without + symbol)
-  const phoneNumber = "6281269088444"; // Replace with your actual WhatsApp number
+  const phoneNumber = "628126908844"; // Replace with your actual WhatsApp number
 
   // Create WhatsApp URL
   const whatsappURL = `https://wa.me/${phoneNumber}?text=${whatsappMessage}`;
