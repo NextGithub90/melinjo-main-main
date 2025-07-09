@@ -17,10 +17,10 @@ document.addEventListener("DOMContentLoaded", function () {
       navContact: "Contact",
 
       // Stats section
-      statCoffeeVariants: "Coffee Variants",
-      statPartnerFarmers: "Partner Farmers",
-      statDestinationCountries: "Destination Countries",
-      statAwards: "Awards",
+      statCoffeeVariants: "Natural & Traditional Processing",
+      statPartnerFarmers: "Local Producers & Farmers",
+      statDestinationCountries: "Export Destinations",
+      statAwards: "Acehnese Signature Products",
 
       // Hero section
       heroTitle: "CAMPOENI",
@@ -133,10 +133,10 @@ document.addEventListener("DOMContentLoaded", function () {
       navContact: "Hubungi",
 
       // Stats section
-      statCoffeeVariants: "Varian Kopi",
-      statPartnerFarmers: "Petani Rakan",
-      statDestinationCountries: "Negara Destinasi",
-      statAwards: "Anugerah",
+      statCoffeeVariants: "Pemprosesan Semula Jadi & Tradisional",
+      statPartnerFarmers: "Pengeluar & Petani Tempatan",
+      statDestinationCountries: "Destinasi Eksport",
+      statAwards: "Produk Khas Aceh",
 
       // Hero section
       heroTitle: "CAMPOENI",
